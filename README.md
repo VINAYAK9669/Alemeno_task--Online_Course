@@ -8,6 +8,7 @@ EduPath is a web application designed to help students discover and enroll in co
 - Vite
 - Redux
 - Tailwind CSS
+- Router
 - VS Code
 - Git
 
