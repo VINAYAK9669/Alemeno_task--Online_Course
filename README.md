@@ -63,6 +63,11 @@ EduPath is a web application designed to help students discover and enroll in co
 
 ## Screenshots
 
-![Course Listing Page](/screenshots/course_listing.png)
-![Course Details Screen](/screenshots/course_details.png)
-![Student Dashboard](/screenshots/student_dashboard.png)
+### Course Listing Page with Filter
+![Course Listing Page](public/screenshots/course_list.JPG)
+
+### Course Details Page with dynamic buttons and interactive user interface
+![Course Details Screen](public/screenshots/course_details.JPG)
+
+### Course Dashboard with dynamic buttons and progress bar.
+![Student Dashboard](public/screenshots/course_dashboard.JPG)
