@@ -13,7 +13,7 @@ EduPath is a web application designed to help students discover and enroll in co
 
 ## Tech Stack
 
-[NETLIFY HOST LINK](URL)
+[NETLIFY HOST LINK](URL) | 
 [Youtube Video Demo](URL)
 
 ## Features
@@ -37,6 +37,23 @@ EduPath is a web application designed to help students discover and enroll in co
 
 - **Advanced State Management:**
   - Utilizes Redux for effective state management.
+
+
+## How to install and Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/edupath.git ```
+
+2. Install dependencies:
+   ```cd edupath
+     npm install```
+
+3. Start the development server:
+```npm run dev
+```
+
+
 
 ## Screenshots
 
