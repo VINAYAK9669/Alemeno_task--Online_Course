@@ -39,18 +39,28 @@ EduPath is a web application designed to help students discover and enroll in co
   - Utilizes Redux for effective state management.
 
 
-## How to install and Run
+## How to Install and Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/edupath.git
+
+    ```bash
+    git clone https://github.com/yourusername/edupath.git
+    ```
 
 2. Install dependencies:
-   ```cd edupath
-   ``npm install
+
+    ```bash
+    cd edupath
+    npm install
+    ```
 
 3. Start the development server:
-  ```npm run dev
+
+    ```bash
+    npm run dev
+    ```
+
+
 
 
 
