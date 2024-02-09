@@ -14,7 +14,7 @@ EduPath is a web application designed to help students discover and enroll in co
 
 ## Tech Stack
 
-[NETLIFY HOST LINK](URL) | 
+[NETLIFY HOST LINK](https://course-listing-details-dashboard.netlify.app/) | 
 [Youtube Video Demo](URL)
 
 ## Features
