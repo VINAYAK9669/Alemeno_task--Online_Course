@@ -47,10 +47,10 @@ EduPath is a web application designed to help students discover and enroll in co
 
 2. Install dependencies:
    ```cd edupath
-   `` npm install
+   ``npm install
 
 3. Start the development server:
-```npm run dev
+  ```npm run dev
 
 
 
