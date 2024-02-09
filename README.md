@@ -44,13 +44,13 @@ EduPath is a web application designed to help students discover and enroll in co
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/edupath.git
+    gh repo clone VINAYAK9669/Alemeno_task--Online_Course
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd edupath
+    cd Alemeno_task--Online_Course
     npm install
     ```
 
@@ -59,10 +59,6 @@ EduPath is a web application designed to help students discover and enroll in co
     ```bash
     npm run dev
     ```
-
-
-
-
 
 ## Screenshots
 
